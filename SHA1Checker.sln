@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHA1Checker", "SHA1Checker\SHA1Checker.csproj", "{A1351118-E0F4-4750-8995-EB29392C23CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1351118-E0F4-4750-8995-EB29392C23CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1351118-E0F4-4750-8995-EB29392C23CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1351118-E0F4-4750-8995-EB29392C23CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1351118-E0F4-4750-8995-EB29392C23CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22A611EF-0B1F-4478-8074-F06046EE7EA2}
+	EndGlobalSection
+EndGlobal
